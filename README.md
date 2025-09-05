@@ -1,6 +1,6 @@
 # Boston 311: How Service Requests Have Changed, 2015-2024
 
-Demand for Boston 311 services has grown. In 2024 alone, the city logged nearly 283,000 requests. This represents a **35% increase** since 2015, despite the fact that Boston’s population declined slightly over that time period.
+Demand for Boston 311 services has grown. In 2024 alone, the city logged nearly 283,000 requests. This represents a **35% increase** since 2015, despite the fact that Boston’s population declined slightly over that same time period.
 
 But the system is also different in a more fundamental way: the **kinds of issues** that residents are calling about are different. The Transportation Department now has a significantly higher percentage of parking enforcement calls, and Public Works, while still the busiest department overall, has shifted somewhat away from sanitation and toward code complaints. And some newer issues, like needle pickup, have also become a regular part of the mix. Geographically, some neighborhoods (especially South Boston) are generating significantly more calls than they were a decade ago.
 
