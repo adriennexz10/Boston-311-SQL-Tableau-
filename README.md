@@ -1,3 +1,7 @@
+![PostgreSQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
+![Tableau](https://img.shields.io/badge/Viz-Tableau-orange)
+![Data](https://img.shields.io/badge/Rows-2.6M-green)
+
 # Boston 311 Calls Project
 
 Demand for Boston 311 non-emergency services **grew by 35% from 2015 to 2024,** despite the fact that the city’s population declined slightly over that same time period. In 2024 alone, the city logged nearly 283,000 requests -- about 773 per day. **This project uses SQL and Tableau to explore the drivers behind that growth**, focusing on changes in request types, department workloads, neighborhood patterns, and case resolution times. 
@@ -5,6 +9,7 @@ Demand for Boston 311 non-emergency services **grew by 35% from 2015 to 2024,** 
 The full Tableau dashboard can be found [here](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/e395fca1-fbc3-48ed-93af-2a0e1dd7a92b" />
+
 
 ---
 
@@ -44,12 +49,17 @@ That said, the overall progress citywide masks big differences between departmen
 ## Technical Approach
 ### Datasets
 - Analyze Boston, [311 Service Requests (2015–2024)](https://data.boston.gov/dataset/311-service-requests). The data is published as ten separate annual datasets (one for each year).
-- City Population Data: American Community Survey 1-year estimates. For 2024, 2023 estimates were used.
-- Zip Code Population Data: American Community Survey 5-year estimates. For 2024, 2023 estimates were used.
-### SQL Files
-- schema.sql – defines the database tables
-- load_data.sql – instructions for loading and staging yearly CSVs
-- analysis.sql – SQL queries used to generate the findings below
+- City Population Data: American Community Survey 1-year estimates. For 2024, 2023 estimates were used. 2020 values were interpolated. File is available in the Data folder in this repository.
+- Zip Code Population Data: American Community Survey 5-year estimates. For 2024, 2023 estimates were used. File is available in the Data folder in this repository.
+## Repository Structure
+```
+├── SQL/
+│   ├── schema.sql       # defines the database tables
+│   ├── load_data.sql    # instructions for loading data 
+│   └── analysis.sql     # queries used to generate the findings above
+├── Data/                # raw data reference files
+└── README.md
+```
 ### Approach
 - Built PostgreSQL database with three main tables: service requests (2.6M records consolidated from 10 annual spreadsheets into a single table spanning 2015 to 2024), citywide population (2015 - 2024), and zip-level population data (2015 - 2024)
 - Wrote SQL queries to analyze trends in requests across time, departments, request types, and geography
@@ -57,3 +67,4 @@ That said, the overall progress citywide masks big differences between departmen
 - Created pivot tables to compare top categories across years
 - Joined service request data with population data for per-population analysis
 - Built interactive Tableau dashboard with filtering capabilities, geographic mapping, and time-series visualizations to make findings accessible to non-technical audiences
+
