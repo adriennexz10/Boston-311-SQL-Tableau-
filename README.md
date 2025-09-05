@@ -25,7 +25,7 @@ The fastest growth in raw numbers came from South Boston/Waterfront, South End, 
 
 ---
 
-## How Quickly Are Cases Closed?
+## How quickly are cases closed?
 
 Although the city's caseload is on the rise, Boston appears to be getting faster at closing out cases. In 2015, the median time to close was two days and nine hours. One year later, in 2016, it was 17 hours. In 2024, the median was just 10 hours.  
 
@@ -37,7 +37,7 @@ That said, the overall progress citywide masks big differences between departmen
 
 ---
 
-## Dashboard
+## View the dashboard
 The full Tableau dashboard can be found [here](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/e395fca1-fbc3-48ed-93af-2a0e1dd7a92b" />
