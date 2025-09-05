@@ -1,6 +1,6 @@
 # Boston 311 Calls Project
 
-Demand for Boston 311 non-emergency services grew by 35% from 2015 to 2024, despite the fact that the city’s population declined slightly over that same time period. In 2024 alone, the city logged nearly 283,000 requests -- about 773 per day. **This project uses SQL and Tableau to explore the drivers behind that growth**, focusing on changes in request types, department workloads, neighborhood patterns, and case resolution times.
+Demand for Boston 311 non-emergency services **grew by 35% from 2015 to 2024,** despite the fact that the city’s population declined slightly over that same time period. In 2024 alone, the city logged nearly 283,000 requests -- about 773 per day. **This project uses SQL and Tableau to explore the drivers behind that growth**, focusing on changes in request types, department workloads, neighborhood patterns, and case resolution times. 
 
 The full Tableau dashboard can be found [here](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
 
@@ -26,7 +26,7 @@ Among zip codes with at least 5 requests in 2015, those with the largest % incre
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/96b264d6-35d1-4d79-afd0-c6d029238696" />
 
-<sub>(Visit full dashboard for interactive version.)</sub>
+<sub>(Visit full [dashboard](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interactive version.)</sub>
 
 #### How quickly are cases closed?
 
@@ -36,7 +36,8 @@ That said, the overall progress citywide masks big differences between departmen
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/e65d5757-bb71-49fd-b904-c4656de13ed6" />
 
-<sub>(Visit full dashboard for interactive version.)</sub>
+<sub>(Visit full [dashboard](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interactive version.)</sub>
+
 
 ---
 
