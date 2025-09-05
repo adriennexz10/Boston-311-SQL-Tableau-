@@ -17,7 +17,7 @@ View the full dashboard [here](https://public.tableau.com/views/Boston311CallsDa
 ## Findings
 311 requests have grown substantially, up 35% since 2015.
 
-#### What types of requests are driving growth?
+### What types of requests are driving growth?
 1. The single biggest increase came from **Enforcement & Abandoned Vehicles**, which rose from 11,000 requests in 2015 to around 68,000 in 2024 -- representing about 46% of all growth in the 311 system. Nearly all of this increase was from parking enforcement (+55,000). Unsurprisingly, the Transportation Department, the main entity that handles these requests, saw its overall caseload of transportation issues increase by 230% over the last decade, from around 25,000 to 82,000.
 
 2. The second big driver of the increase was **Code Enforcement,** which had 36,000 more cases in 2024 compared to 2015 (a 98% increase). This includes issues like trash barrels left out improperly (+20,000), poor property conditions (+8,600), unshoveled sidewalks (+3,800), and illegal dumping (+3,000). Code enforcement falls under the Public Works department. While Public Works has always been the busiest department, its mix has shifted away from sanitation and toward code complaints.
@@ -26,7 +26,7 @@ View the full dashboard [here](https://public.tableau.com/views/Boston311CallsDa
 
 Notes: It's possible some growth may stem from changes in how requests are categorized (further research is needed to assess this). Additionally, not every category increased: sanitation declined from 34,700 → 10,800, building issues from 12,200 → 5,000, and highway maintenance from 27,600 → 22,600. Even within categories that are on the rise, certain sub-categories have declined.
 
-#### Which zip codes are driving growth?
+### Which zip codes are driving growth?
 
 Among zip codes with at least 5 requests in 2015, those with the largest % increase over the last decade were 02210 (in Seaport) 02118 (in the South End), and 02127 (in South Boston):
 
@@ -34,7 +34,7 @@ Among zip codes with at least 5 requests in 2015, those with the largest % incre
 
 <sub>(Visit full [dashboard](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interactive version.)</sub>
 
-#### How quickly are cases closed?
+### How quickly are cases closed?
 
 Boston appears to be getting faster at closing out cases. In 2015, the median time to close was two days and nine hours. One year later, in 2016, it was 17 hours. In 2024, the median was just 10 hours.  
 
