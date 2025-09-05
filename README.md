@@ -6,6 +6,8 @@
 
 Demand for Boston 311 non-emergency services **grew by 35% from 2015 to 2024,** despite the fact that the city’s population declined slightly over that same time period. In 2024 alone, the city logged nearly 283,000 requests -- about 773 per day. **This project uses SQL and Tableau to explore the drivers behind that growth**, focusing on changes in request types, department workloads, neighborhood patterns, and case resolution times. 
 
+The full Tableau dashboard can be found [here](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
+
 ---
 
 ## Findings
@@ -37,12 +39,6 @@ That said, the overall progress citywide masks big differences between departmen
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/e65d5757-bb71-49fd-b904-c4656de13ed6" />
 
 <sub>(Visit full [dashboard](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for interactive version.)</sub>
-
-
----
-The full Tableau dashboard can be found [here](https://public.tableau.com/views/Boston311CallsDashboardVersion4/Borders4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
-
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/e395fca1-fbc3-48ed-93af-2a0e1dd7a92b" />
 
 ---
 
