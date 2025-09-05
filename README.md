@@ -1,4 +1,4 @@
-# Boston 311: How Service Requests Have Changed, 2015-2024
+# Boston 311: How Service Requests Have Changed Over Time
 
 Demand for Boston 311 services has grown. In 2024 alone, the city logged nearly 283,000 requests. This represents a **35% increase** since 2015, despite the fact that Boston’s population declined slightly over that same time period.
 
