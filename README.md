@@ -6,7 +6,7 @@ But the system is also different in a more fundamental way: the **kinds of issue
 
 ---
 
-## What reasons are driving growth?
+## What types of requests are driving growth?
 1. The single biggest increase came from **Enforcement & Abandoned Vehicles**. Requests in this category rose from just over 10,700 in 2015 to nearly 68,000 in 2024 -- about 43% of all growth in the system. Almost all of this was due to parking enforcement, which experienced more than 54,000 additional calls over the decade. Abandoned vehicle complaints grew as well, but by only about 2,100. The Transportation Department, the main entity that handles these requests, saw its overall caseload of transportation issues increase by 230% over the last decade, from around 25,000 to 82,000.
 
 2. The second big driver of the increase was **Code Enforcement,** which had 36,000 more cases in 2024 compared to 2015 (a 27% increase). This includes issues like trash barrels left out improperly (+20,000), poor property conditions (+8,500), unshoveled sidewalks (+3,700), and illegal dumping (+2,900). Code enforcement falls under the Public Works department. This department has always handled a high volume of calls (in fact, the highest of any department) but while it was previously dominated by sanitation, it has shifted toward code enforcement.
